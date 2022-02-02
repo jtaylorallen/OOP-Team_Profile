@@ -1,5 +1,5 @@
 # Team-Profile-Generator
-### Create a
+### An app for a user to generate basic info about a team of employees.
 
 ## Table of Contents
 
@@ -32,13 +32,15 @@
 
 ## Bugs and Known Issues
 
-- 
+- I am so upset, all of my commits and push are not going to be available because I was pushing to a nonexistent repo.
+
+# ![]()
 
 ## Next Steps to Continue
 
 ### Next Steps for App UI and Functionality
 
-- 
+- I need to put more work into the site.
 
 ## SudoCode of Acceptance Criteria
 * n/a
@@ -48,7 +50,8 @@
 
 ### Deliverables
 
-- 1. 
+- 1. Jest
+- 2. Inquirer
 
 ### License
 
